@@ -330,7 +330,7 @@ public class EnhanceCalculator {
                             break;
                     }
                 }
-
+                break;
 
 // ADDITIONAL FUNCTIONS
             case "F":
